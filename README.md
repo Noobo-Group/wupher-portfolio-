@@ -123,7 +123,7 @@ Wupher provides production-ready fintech infrastructure via APIs. Companies inte
 **Wupher Labs**  
 A Division of Noobo Group (Pre-LLC)  
 Email: info@noobo.org  
-Phone: 305-760-9967  
+Phone: 443-234-1630  
 Location: Aberdeen, Maryland
 
 **Founder:** Joseph Fears (BS in Information Systems, Towson University | USAF Veteran)
